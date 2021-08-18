@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647216084891",
+    "project_id": "ylo-movies",
+    "storage_bucket": "ylo-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647216084891:android:e41dd2d47a390a1a67d33e",
+        "android_client_info": {
+          "package_name": "com.example.ylw_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647216084891-96m1kdtphn54ievriji86878j7039lvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ylw_movies",
+            "certificate_hash": "82fe2109686e66ee7dc3f111f107bf1bfeea5b7e"
+          }
+        },
+        {
+          "client_id": "647216084891-domsdbtte2kf132khku7s8j1ert0vv9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaVu1ZG_6_EnonRuUjy9IET4bxwbDb1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647216084891-domsdbtte2kf132khku7s8j1ert0vv9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
