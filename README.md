@@ -4,10 +4,9 @@ A movie Wishlist with native nosql db.
 
 ## Getting Started
 
-This project is a simple demonstration of CRUD application performed with Hive nosql DB
-it store movie related Data in persistance local storage with the help of hive flutter.
+This project is a simple demonstration of the CRUD application performed with Hive NoSQL DB it stores movie-related Data in persistence local storage with the help of hive flutter.
 
-The google Oauth used to validate user before making any operations on data.
+Google Oauth is used to validate users before making any operations on data.
 
 # ylw-Movies
 
