@@ -11,7 +11,7 @@ The google Oauth used to validate user before making any operations on data.
 
 # ylw-Movies
 
-![LoginScreen](Screenshots/Login.png =250x250)
+![LoginScreen](Screenshots/Login.png | width=200 hight=400)
 
 ## note
 
